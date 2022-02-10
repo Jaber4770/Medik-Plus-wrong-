@@ -1,4 +1,5 @@
 import React from 'react';
+import FAQ from '../FAQ/FAQ';
 import Helpline from '../Helpline/Helpline';
 import OnlineTips from '../OnlineTips/OnlineTips';
 
@@ -7,6 +8,7 @@ const ContactUs = () => {
         <div>
             <Helpline></Helpline>
             <OnlineTips></OnlineTips>
+            <FAQ></FAQ>
         </div>
     );
 };
