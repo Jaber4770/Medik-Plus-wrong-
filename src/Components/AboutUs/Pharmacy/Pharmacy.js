@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Phermacy = () => {
+const Pharmacy = () => {
     return (
         <div>
             <h1>get all medicine here free of cost</h1>
@@ -8,4 +8,4 @@ const Phermacy = () => {
     );
 };
 
-export default Phermacy;
+export default Pharmacy;
