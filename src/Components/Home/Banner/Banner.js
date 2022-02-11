@@ -12,7 +12,7 @@ const Banner = () => {
     }, [])
 
     return (
-        <div className='container'>
+        <div className='container mx-auto md:container md:mx-auto'>
             {
                 img.map(img => <BannerImg
                 key={img.id}
